@@ -11,9 +11,11 @@ export default function Home() {
   return (
     <div className="max-w-3xl mx-auto flex flex-col min-h-svh px-4 py-8 gap-8">
       <header className="flex flex-col gap-1">
-        <h1 className="text-3xl font-bold tracking-tight">Custom Registry</h1>
+        <h1 className="text-3xl font-bold tracking-tight">Koraforge</h1>
         <p className="text-muted-foreground">
-          A custom registry for distribution code using shadcn.
+          Set of components built by me using Shadcn-ui for public use.
+          Feel free to try them out!
+          share your feedback with me on{"rashodkorala2002@gmail.com "}
         </p>
       </header>
       <main className="flex flex-col flex-1 gap-8">
